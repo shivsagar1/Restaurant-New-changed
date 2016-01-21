@@ -1,0 +1,86 @@
+.fnt {
+
+    font-family: "Times New Roman,Times,serif";
+    font-size: 1.5em;
+    color: #ff573e;
+    margin: 0.28em;
+
+    font-weight: bold;
+    width: 99%;
+    height: 12em;
+//background-image: linear-gradient(45deg, red 2%, blue 10%, hotpink);
+    text-align: center;
+    background-image:url("http://calorielab.com/news/wp-images/post-images/indian-food.jpg" );
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+.own{
+    font-size:0.9em;
+    position: relative;
+    float: right;
+    margin:0px 0px 0px 0px;
+    bottom:8em;
+    right:1em;
+}
+
+
+li:hover{
+    color:hotpink;
+    cursor:pointer;
+}
+
+.dest{
+    position: relative;
+    left:1%;
+    top:6em;
+    width:0em;
+}
+
+
+
+div.list{
+    font-size:1.5em  ;
+
+    position:relative;
+    float:right;
+    margin:0px 0px 0px 0px;
+    top:2em;
+    right:8em;
+
+}
+
+.abt{
+    position: relative;
+    width:42em;
+    height: 19em;
+    background-image:url(https://library.dalat.org/SafariResources/images/main-color-light-streaks-bg.jpg);
+    background-size:contain;
+    margin:auto;
+    font-size: larger;
+    top: 10em;
+
+    right:9em;
+
+}
+
+
+.add{
+    font-size:larger;
+    color:red;
+    position:relative;
+    top:15em;
+    left:2em;
+
+}
+
+.opp{
+
+    position:relative;
+    top:14em;
+    right:2em;
+    float:right;
+
+}
+
